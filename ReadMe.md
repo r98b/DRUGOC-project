@@ -1,8 +1,8 @@
 # DrugOC
 
-DrugOC est une application web de pharmacovigilance qui permet deux choses:
+DrugOC est une application web de pharmacovigilance qui permet d'atteindre deux objectifs principaux :
 
-1- Déterminer si un médicament est responsable ou pas de l'apparition au cours du traitement d'un effet indésirable.
+1- Déterminer si un médicament est responsable ou pas de l'apparition d'un ou de plusieurs effets indésirables au cours d'un traitement.
 
 2- Déclarer ces effets indésirables aux autorités appropriées à travers des rapports complets. 
 
@@ -10,11 +10,11 @@ La procédure se fait suivant la méthode d'imputabilité française : https://w
 
 ## Intérêt
 
-Du fait que nos connaissances avant la commercialisation des médicaments sont insuffisantes, les effets indésirables restent un fardeau lourd qui engendre des pertes annuelles gigantesques en termes d'argent et surtout en termes de vies. La déclaration et le traitement rapide de l'information permetteront une mielleure vigilance et un meilleur suivi de la vie des médicaments sur le marché et permet donc de réduire les risques dus à la consommation des médicaments, voir même sauver des vies.
+Les effets indésirables constituent un réel problème qui engendre de grandes pertes d’argent et surtout de vies humaines. Cela est du aux connaissances limitées des propriétés pharmacologiques des médicaments avant leur commercialisation. Le suivi des effets indésirables à travers leurs déclarations, ainsi que le traitement rapide de ces déclarations, pourront permettre de réduire amplement les pertes citées en amont.
 
 ### Qui doit déclarer ?
 
-Les médecins prescripteurs, les pharmaciens hospitaliers, les professeurs chef de service, les collaborateurs techniques régionaux, la Pharmacie centrale des hôpitaux (PCH), le Ministère de la santé (MSPRH), l’industrie pharmaceutique,
+Les médecins prescripteurs, les pharmaciens hospitaliers, les professeurs chef de service, les collaborateurs techniques régionaux, la Pharmacie centrale des hôpitaux (PCH), le Ministère de la santé (MSPRH), les industrie pharmaceutiques...etc.
 
 ### Quand déclarer ?
 
@@ -25,23 +25,32 @@ pas de délai défini pour les autres.
 
 Veuillez consulter la documentation du projet sur : http://selamasalem.me/DRUGOC-Documentation/ 
 
-## Perspictives
+## Perspectives
 
-1- Créer une base de données algériennes en Français et en Anglais, dont les médicaments et les effets indésirables sont extraits à partir des ouvrages de références et en collaboration avec les professionnels de santé.
+1- Créer une base de données algérienne en Français et en Anglais, dont les médicaments et les effets indésirables sont extraits à partir d'ouvrages de références et en collaboration avec des professionnels de santé.
 
-2- Créer une base de données pour récolter les rapports soumis par les professionnels de santé tout en respectant l'annonymat du rapporteur et du patient.
+2- Créer une base de données pour récolter les rapports soumis par des professionnels de santé tout en respectant l'anonymat du rapporteur et du patient.
 
-3- Créer un réseau de neurones pour automatiser la procédure complètement, notamment en termes des critères chronlogiques et les critères sémiologiques vu qu'ils nécessitent la connaissance et l'expertise d'un medecin pharmacologue.
+3- Créer un réseau de neurones pour complètement automatiser la procédure, notamment en termes de critères chronlogiques et sémiologiques étant donné qu'ils nécessitent la connaissance et l'expertise d'un medecin pharmacologue.
 
-4- Une fois arrivé à bout avec la pharmacovigilance on va entamer la matériovigilance, la virovigilance, la vaccinovigilance et la phytovigilance.
+4- Une fois la pharmacovigilance terminée, la matériovigilance est entamée ainsi que la virovigilance, la vaccinovigilance et la phytovigilance.
 
 ## Contribution
 
-On aimeria bien avoir des "Pull requests" are welcome. Pour des changements majeures, veuillez ouvrir un "issue" pour discuter ce que vous souhaiter changer. 
+Si vous avez des "Pull requests" n'hésitez pas. Pour des changements majeurs, veuillez ouvrir un "issue" pour discuter ce que vous souhaiter changer. 
 
 ## Remerciement
 
-Un grand merci destiné à tous les membres du DSC-ENSB 2019/2020.
+Un grand merci destiné à tous les membres du DSC-ENSB 2019/2020 :
+Salem Abderaouf
+Boudemia Ala Eddine
+Kassa Baghdouche Louaï
+Slimani Khaled
+Meddour Yazid
+Sana Amir
+Boubertakh Ramy
+Gherbi Rabiaa
+Hadid Amira.
 
 ## License
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
